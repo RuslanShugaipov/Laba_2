@@ -1,0 +1,6 @@
+C:\Users\Руслан\source\repos\Laba_2\StructType\bin\Debug\StructType.exe.config
+C:\Users\Руслан\source\repos\Laba_2\StructType\bin\Debug\StructType.exe
+C:\Users\Руслан\source\repos\Laba_2\StructType\bin\Debug\StructType.pdb
+C:\Users\Руслан\source\repos\Laba_2\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\Laba_2\StructType\obj\Debug\StructType.exe
+C:\Users\Руслан\source\repos\Laba_2\StructType\obj\Debug\StructType.pdb

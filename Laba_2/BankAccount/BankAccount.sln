@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{927D9656-CDB1-46E1-BCF7-E25D987E7AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructType", "..\StructType\StructType.csproj", "{5518DAEB-85F8-4C6C-80C8-ADED8107B9DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927D9656-CDB1-46E1-BCF7-E25D987E7AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927D9656-CDB1-46E1-BCF7-E25D987E7AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927D9656-CDB1-46E1-BCF7-E25D987E7AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927D9656-CDB1-46E1-BCF7-E25D987E7AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5518DAEB-85F8-4C6C-80C8-ADED8107B9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5518DAEB-85F8-4C6C-80C8-ADED8107B9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5518DAEB-85F8-4C6C-80C8-ADED8107B9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5518DAEB-85F8-4C6C-80C8-ADED8107B9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFD9C37-06BA-407A-8E10-5D10898DB396}
+	EndGlobalSection
+EndGlobal
